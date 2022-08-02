@@ -33,7 +33,7 @@
 			<img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
 		</a>
 		<a href="https://yilmazgokhan.github.io" target="_blank">
-			<img src="https://img.shields.io/badge/-Personal%20web-%230077B5?style=for-the-badge&logoColor=white" target="_blank"/>
+			<img src="https://img.shields.io/badge/-Personal%20website-%230077B5?style=for-the-badge&logoColor=white" target="_blank"/>
 		</a>
 	</div>
 	<h3 align="center">Personal Projects In Progress</h3>
