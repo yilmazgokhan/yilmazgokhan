@@ -1,12 +1,12 @@
 <h3 align="center">Hi there, I'm Gokhan 👋</h3>
 <p align="center">
-	<a href="https://git.io/typing-svg">
+	<a href="https://yilmazgokhan.github.io/">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&lines=From+Earth+%3A);Android+%26+Backend+developer;Open+source+lover&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=26"/>
 	</a>
 </p>
 <p align="center">
 🔭 I’m currently working on <a href="https://www.linkedin.com/company/atatechnologyplatforms/">ATP</a>
-	<br/>💻 I'm working on a new app with Compose.<br/>💬 Ask me about <b>HMS vs GMS, Android & Java Spring</b>
+	<br/>💻 I'm working on a new app with Compose<br/>💬 Ask me about <b>Android & Java Spring, HMS vs GMS, Ads Mediation</b>
 </p>
 <br/>
 <div style="display: inline_block" align="center">
@@ -38,33 +38,56 @@
 	</div>
 	<h3 align="center">Personal Projects In Progress</h3>
 	<a href="https://github.com/yilmazgokhan/Il-Bil">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Il-Bil&theme=github_dark"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Il-Bil&theme=dark"/>
 	</a>
 	<a href="https://github.com/yilmazgokhan/Track-Corona">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Track-Corona&theme=github_dark"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Track-Corona&theme=dark"/>
 	</a>
 	<br/>
 	<br/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Super-Heroes&theme=github_dark"/>
+	<a href="https://github.com/yilmazgokhan/Super-Heroes">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Super-Heroes&theme=dark"/>
+	</a>
 	<a href="https://github.com/yilmazgokhan/ISS-Detector">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=ISS-Detector&theme=github_dark"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=ISS-Detector&theme=dark"/>
 	</a>
 	<br/>
 	<br/>
 	<a href="https://github.com/yilmazgokhan/Compose-Playground">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Compose-Playground&theme=github_dark"/>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Compose-Playground&theme=merko"/>
+	</a>
+	<br/>
+	<h3 align="center">Collaborated On</h3>
+	<a href="https://github.com/Explore-In-HMS/huawei.ads.admob_mediation">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.admob_mediation&theme=dark"/>
+	</a>
+	<a href="https://github.com/Explore-In-HMS/huawei.ads.mopub_mediation">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.mopub_mediation&theme=dark"/>
+	</a>
+	<br/>
+	<br/>
+	<a href="https://github.com/Explore-In-HMS/huawei.ads.ironsource_mediation">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.ironsource_mediation&theme=dark"/>
+	</a>
+	<a href="https://github.com/Explore-In-HMS/huawei.ads.smartad.headerbidding">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.smartad.headerbidding&theme=dark"/>
+	</a>
+	<br/>
+	<br/>
+	<a href="https://github.com/BAU-COOP4423/P1-Movie-App">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BAU-COOP4423&repo=P1-Movie-App&theme=dark"/>
 	</a>
 	<br/>
 	<h3 align="center">Stats</h3>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yilmazgokhan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazgokhan&layout=compact&hide=Shaderlab,SCSS,HLSL,Less&langs_count=5&theme=merko"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yilmazgokhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazgokhan&layout=compact&hide=Shaderlab,SCSS,HLSL,Less&langs_count=5&theme=dark"/>
 	<br/>
 	<br/>
 	<br/>
 	<br/>
 	<br/>
 	<p align="center">
-		<a href="https://git.io/typing-svg">
+		<a href="https://yilmazgokhan.github.io/">
 			<img src="https://readme-typing-svg.herokuapp.com?font=Anton&lines=May+the+Force+be+with+you&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=24" alt="Typing SVG"/>
 		</a>
 	</p>
