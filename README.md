@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 🔭 I’m currently working on <a href="https://www.linkedin.com/company/atatechnologyplatforms/">ATP</a>
-	<br/>💻 I'm working on a new app with Compose<br/>💬 Ask me about <b>Android & Java Spring, HMS vs GMS, Ads Mediation</b>
+	<br/>💻 I'm working on new projects with Jetpack Compose<br/>💬 Ask me about <b>Android & Java Spring, HMS vs GMS, Ads Mediation</b>
 </p>
 <br/>
 <div style="display: inline_block" align="center">
@@ -55,6 +55,14 @@
 	<br/>
 	<a href="https://github.com/yilmazgokhan/Compose-Playground">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Compose-Playground&theme=merko"/>
+	</a>
+	<br/>
+	<h3 align="center">Personal Architecture Projects</h3>
+	<a href="https://github.com/yilmazgokhan/Kotlin-MVVM-Base-Architecture">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Kotlin-MVVM-Base-Architecture&theme=dark"/>
+	</a>
+	<a href="https://github.com/yilmazgokhan/Spring-Boot-Base-Architecture">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Spring-Boot-Base-Architecture&theme=dark"/>
 	</a>
 	<br/>
 	<h3 align="center">Collaborated On</h3>
