@@ -56,6 +56,9 @@
 	<a href="https://github.com/yilmazgokhan/Compose-Playground">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Compose-Playground&theme=merko"/>
 	</a>
+	<a href="https://github.com/yilmazgokhan/iDine">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=iDine&theme=merko"/>
+	</a>
 	<br/>
 	<h3 align="center">Personal Architecture Projects</h3>
 	<a href="https://github.com/yilmazgokhan/Kotlin-MVVM-Base-Architecture">
