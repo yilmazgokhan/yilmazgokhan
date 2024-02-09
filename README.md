@@ -5,7 +5,7 @@
 	</a>
 </p>
 <p align="center">
-🔭 I’m currently working on <a href="https://www.linkedin.com/company/atatechnologyplatforms/">ATP</a>
+🔭 I’m currently working on Ziraat Technology
 	<br/>💻 I'm working on new projects with Jetpack Compose<br/>💬 Ask me about <b>Android & Java Spring, HMS vs GMS, Ads Mediation</b>
 </p>
 <br/>
