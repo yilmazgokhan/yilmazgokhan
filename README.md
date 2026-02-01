@@ -46,7 +46,7 @@
 	<br/>
 	<br/>
 	<a href="https://github.com/yilmazgokhan/Super-Heroes">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Super-Heroes&theme=dark&hide_border=true"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Super-Heroes&theme=dark&cache_seconds=86400"/>
 	</a>
 	<a href="https://github.com/yilmazgokhan/ISS-Detector">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=ISS-Detector&theme=dark"/>
