@@ -36,64 +36,6 @@
 			<img src="https://img.shields.io/badge/-Personal%20website-%230077B5?style=for-the-badge&logoColor=white" target="_blank"/>
 		</a>
 	</div>
-	<h3 align="center">Personal Projects In Progress</h3>
-	<a href="https://github.com/yilmazgokhan/Il-Bil">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Il-Bil&theme=dark"/>
-	</a>
-	<a href="https://github.com/yilmazgokhan/Track-Corona">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Track-Corona&theme=dark"/>
-	</a>
-	<br/>
-	<br/>
-	<a href="https://github.com/yilmazgokhan/Super-Heroes">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Super-Heroes&theme=dark&cache_seconds=86400"/>
-	</a>
-	<a href="https://github.com/yilmazgokhan/ISS-Detector">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=ISS-Detector&theme=dark"/>
-	</a>
-	<br/>
-	<br/>
-	<a href="https://github.com/yilmazgokhan/Compose-Playground">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Compose-Playground&theme=merko"/>
-	</a>
-	<a href="https://github.com/yilmazgokhan/iDine">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=iDine&theme=merko"/>
-	</a>
-	<br/>
-	<br/>
-	<a href="https://github.com/yilmazgokhan/Compose-Firebase">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Compose-Firebase&theme=merko"/>
-	</a>
-	<br/>
-	<h3 align="center">Personal Architecture Projects</h3>
-	<a href="https://github.com/yilmazgokhan/Kotlin-MVVM-Base-Architecture">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Kotlin-MVVM-Base-Architecture&theme=dark"/>
-	</a>
-	<a href="https://github.com/yilmazgokhan/Spring-Boot-Base-Architecture">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yilmazgokhan&repo=Spring-Boot-Base-Architecture&theme=dark"/>
-	</a>
-	<br/>
-	<h3 align="center">Collaborated On</h3>
-	<a href="https://github.com/Explore-In-HMS/huawei.ads.admob_mediation">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.admob_mediation&theme=dark"/>
-	</a>
-	<a href="https://github.com/Explore-In-HMS/huawei.ads.mopub_mediation">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.mopub_mediation&theme=dark"/>
-	</a>
-	<br/>
-	<br/>
-	<a href="https://github.com/Explore-In-HMS/huawei.ads.ironsource_mediation">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.ironsource_mediation&theme=dark"/>
-	</a>
-	<a href="https://github.com/Explore-In-HMS/huawei.ads.smartad.headerbidding">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Explore-In-HMS&repo=huawei.ads.smartad.headerbidding&theme=dark"/>
-	</a>
-	<br/>
-	<br/>
-	<a href="https://github.com/BAU-COOP4423/P1-Movie-App">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BAU-COOP4423&repo=P1-Movie-App&theme=dark"/>
-	</a>
-	<br/>
 	<h3 align="center">Stats</h3>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yilmazgokhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazgokhan&layout=compact&hide=Shaderlab,SCSS,HLSL,Less&langs_count=6&theme=dark"/>
