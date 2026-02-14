@@ -37,6 +37,12 @@
 		</a>
 	</div>
 	<br/>
+	<h3 align="center">Stats</h3>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yilmazgokhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmazgokhan&layout=compact&hide=Shaderlab,SCSS,HLSL,Less&langs_count=6&theme=dark"/>
+	<br/>
+	<br/>
+	<br/>
 	<br/>
 	<p align="center">
 		<a href="https://yilmazgokhan.github.io/">
